@@ -1,0 +1,22 @@
+# Arquivos gerados pelo build_runner
+*.g.dart
+*.freezed.dart
+
+# Arquivos e diretórios do Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Diversos
+pubspec.lock
+.DS_Store
+*.log

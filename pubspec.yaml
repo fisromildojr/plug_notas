@@ -1,0 +1,40 @@
+name: plug_notas
+description: Pacote Flutter para integração com API PlugNotas (NF-e/NFC-e/NFS-e)
+version: 1.0.0
+homepage: https://github.com/fisromildojr/plug_notas
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP Client
+  dio: ^5.4.0
+
+  # Serialização e Imutabilidade
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+
+  # Injeção de Dependência
+  get_it: ^7.6.4
+
+  # Utilitários
+  uuid: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Code Generation
+  build_runner: ^2.4.7
+  freezed: ^2.4.6
+  json_serializable: ^6.7.1
+
+  # Lint
+  flutter_lints: ^3.0.1
+
+  # Testing
+  mocktail: ^1.0.1
+  http_mock_adapter: ^0.6.1
