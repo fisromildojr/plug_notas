@@ -179,7 +179,7 @@ O pacote fornece exceções tipadas:
 
 - [Documentação Oficial PlugNotas](https://docs.plugnotas.com.br/)
 - [Códigos IBGE de Municípios](https://www.ibge.gov.br/explica/codigos-dos-municipios.php)
-- [Tabela NCM](http://www.nfe.fazenda.gov.br/portal/principal.aspx)
+- [Tabela NCM](https://www.nfe.fazenda.gov.br/portal/principal.aspx)
 
 ## 📄 Licença
 

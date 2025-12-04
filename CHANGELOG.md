@@ -5,6 +5,18 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 e este projeto adere ao [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2025-12-04
+
+### Fixed
+
+- 🔗 Corrigido link inseguro (http) no README.md para usar HTTPS
+- 📦 Gerados arquivos `.freezed.dart` e `.g.dart` faltantes para métodos `toJson`
+- 📦 Atualizadas dependências para versões mais recentes:
+  - `freezed_annotation` ^2.4.1 → ^3.0.0
+  - `get_it` ^7.6.4 → ^8.0.0
+  - `json_annotation` ^4.8.1 → ^4.9.0
+  - `freezed` ^2.4.6 → ^3.0.0
+
 ## [1.0.0] - 2025-12-03
 
 ### Added
